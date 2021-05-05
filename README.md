@@ -1,6 +1,5 @@
 # PPIMem
-Welcome to PPIMem[README.docx](https://github.com/cmaroun/PPIMem/files/6428668/README.docx)
-
+Welcome to PPIMem
 PPIMem is an algorithm for predicting the interactions between transmembrane (TM) proteins of the plasma membrane of eukaryotes.
 PPIMem is a knowledge-based approach based on the detection of α-helical TM non-bonded contact residues between different chains in experimental 3D structures of membrane protein multimers. The pipeline of programs collects, filters, and processes the input data and, based on the assumption that homologs of the benchmark template interface contact motifs are expected to interact analogously, proposes TM proteins forming a putative complex. The database with the annotated predicted interactions is implemented as a web application that supports sorting and filtering, as well as exporting of the results as a csv file.
 
