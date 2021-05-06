@@ -8,7 +8,7 @@ PPIMem is a knowledge-based approach based on the detection of α-helical TM non
 
 # Why is PPIMem original ?
 
-Most PPI databases are mostly concerned with soluble globular proteins. The originality of PPIMem is that of proposing binary molecular complexes between TM proteins based on membrane-exposed packing motifs at the interface. PPIMem reveals 98 α-helix interacting motifs and 1504 unique membrane proteins across 39 species involved in the predicted complexes. The number of PPIMem-predicted membrane heteromer interactions is of 21,544 (9,797 human).
+Most PPI databases are mostly concerned with soluble globular proteins. The originality of PPIMem is that of proposing binary molecular complexes between TM proteins based on membrane-exposed packing motifs at the interface between the subunits of a complex. PPIMem reveals 98 α-helix interacting motifs, 1,504 unique membrane proteins and 21,544 complexes across 39 species (9,797 for human).
 
 
 # Running the pipeline that predicts the membrane protein - membrane protein complexes.  
