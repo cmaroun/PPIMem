@@ -14,6 +14,8 @@ Each line of the PPIMem database webpage corresponds to a predicted binary compl
 
 Most PPI databases are mostly concerned with soluble globular proteins. The originality of PPIMem is that of proposing binary molecular complexes between TM proteins based on membrane-exposed packing motifs at the interface. PPIMem reveals 98 α-helix interacting motifs and 1504 unique membrane proteins across 39 species involved in the predicted complexes. The number of PPIMem-predicted membrane heteromer interactions is of 21,544 (9,797 human).
 
+
 # Running the pipeline that predicts the membrane protein - membrane protein complexes.  
 
 The project.sh file calls all the scripts required to update the database. The scripts have been uploaded in this project. The system requirements are a Linux computer.
+The different databases, such as UniProt, PDB, PDBsum, OPM, and Pfam should be downloaded locally.
