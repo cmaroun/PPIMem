@@ -21,6 +21,6 @@ The project.sh file calls all the scripts required to update the database. The s
 The different databases, such as UniProt, PDB, PDBsum, OPM, and Pfam should be downloaded locally.
 
 
-# 
+# The PPIMem results are implemented as a web application
 
-The resulting database with the annotated predicted interactions is implemented as a web application that supports sorting and filtering. The output data can be downloaded as a csv file and the predictions can be accessed for the time being at https://transint.shinyapps.io/transint/
+The resulting database with the annotated predicted interactions is implemented as a web application that supports sorting and filtering. The output data can be downloaded as a csv file and the predictions can be accessed for the time being at https://transint.shinyapps.io/transint/.
