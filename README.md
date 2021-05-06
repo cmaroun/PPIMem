@@ -19,3 +19,8 @@ Most PPI databases are mostly concerned with soluble globular proteins. The orig
 
 The project.sh file calls all the scripts required to update the database. The scripts have been uploaded in this project. The system requirements are a Linux computer.
 The different databases, such as UniProt, PDB, PDBsum, OPM, and Pfam should be downloaded locally.
+
+
+# 
+
+The resulting database with the annotated predicted interactions is implemented as a web application that supports sorting and filtering. The output data can be downloaded as a csv file and the predictions can be accessed for the time being at https://transint.shinyapps.io/transint/
