@@ -2,4 +2,4 @@
 
 The project.sh file calls all the scripts required to update the database. The scripts have been uploaded in this project. The different databases, such as UniProt,
 PDB, PDBsum, OPM, and Pfam should be downloaded locally.
-The system requirements are a Linux computer.
+The system requirements are computers running Linux or MacOS.
